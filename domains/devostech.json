@@ -6,6 +6,12 @@
   "records": {
     "A": [
       "216.198.79.1"
+    ],
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=devostech.is-a.dev,3db9eb19fa7d55fcf521" 
+      }
     ]
   }
 }
